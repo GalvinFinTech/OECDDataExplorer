@@ -13,7 +13,7 @@ The data for this project is extracted from the OECD Data Explorer. The datasets
 To get started with the project, clone the repository and install the required Python packages:
 
 ```bash
-git clone https://github.com/GalvinFinTech/OECD-Data-Visualization.git
+git clone https://github.com/GalvinFinTech/OECD-Data-Explorer.git
 cd OECD-Data-Visualization
 pip install -r requirements.txt
 ```
@@ -29,15 +29,8 @@ Various libraries and tools used for data processing and visualization.
 
 ##Contact
 
-For any questions or inquiries, please contact:
-<div style="text-align: center;">
-  <a href="mailto:nhv.analysis@gmail.com">
-    <img src="mail.jpg" alt="Logo" width="100" height="100" style="display: inline-block; margin-right: 10px;">
-  </a>
-  <a href="https://www.linkedin.com/in/vi-nguyen-946a08319/">
-    <img src="linkin.png" alt="LinkedIn" width="100" height="100" style="display: inline-block;">
-  </a>
-</div>
+For any questions or inquiries, please contact: nhv.analysis@gmail.com
+
 
 
 
