@@ -14,7 +14,7 @@ To get started with the project, clone the repository and install the required P
 
 ```bash
 git clone https://github.com/GalvinFinTech/OECD-Data-Explorer.git
-cd OECD-Data-Visualization
+cd OECD-Data-Explorer
 pip install -r requirements.txt
 ```
 
